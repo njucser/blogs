@@ -10,5 +10,5 @@ This is a place to collect blogs from nju csers.
 * Mcl(mengcl) http://mclspace.com/
 * rebornix(lvp) https://rebornix.com/
 * tsgzj(sunwx) http://tsgzj.me/
-* andrewliu(liub) http://andrewliu.tk/
+* andrewliu(liub) http://andrewliu.in/
 * cuckootan(tanjx) http://cuckootan.tk/
