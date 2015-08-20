@@ -8,8 +8,11 @@ This is a place to collect blogs from nju csers.
 * eclipseflower(wuy) http://eclipseflower.github.io/
 * luvina(huanglc) http://luvinahlc.github.io/
 * yinyanghu(lij) http://yinyanghu.github.io/
-* Mcl(mengcl) http://mclspace.com/
+* mclspace(mengcl) http://mclspace.com/
 * rebornix(lvp) https://rebornix.com/
 * tsgzj(sunwx) http://tsgzj.me/
 * andrewliu(liub) http://andrewliu.in/
 * cuckootan(tanjx) http://cuckootan.tk/
+* cshuo(chens) http://cshuo.xyz/
+* liutianchi(liutc) http://liutianchi.com/
+* monkey-h(yuancl) https://monkey-h.github.io/
